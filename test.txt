@@ -28,3 +28,5 @@ trigger ContactTriggerRollupSummary29April on Contact (after insert, after updat
     Database.update(accMap.values(), false);
     }   
 }
+
+adhafjhdshjj
